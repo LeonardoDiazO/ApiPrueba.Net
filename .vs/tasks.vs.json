@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-DemoTallerApi",
+      "appliesTo": "DemoTallerApi/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-DemoTallerApi",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
